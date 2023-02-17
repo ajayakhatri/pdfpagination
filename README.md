@@ -21,4 +21,4 @@ Pagination and merging of multiple pdfs
 
 
 ## Note
-This code is modified form of code taken from https://stackoverflow.com/a/68382694
+This code is modified from code taken from https://stackoverflow.com/a/68382694
