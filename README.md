@@ -2,13 +2,16 @@
 Pagination and merging of multiple pdfs
 
 ## Libraries used
-fpdf2 and PyPDF2 
+* fpdf2 
+    - pip install fpdf2
+* PyPDF2 
+    - pip install PyPDF2
 
 ## Instructions
-1. Name pdfs in numeric order. 
-    First Pdf is named as: 1.pdf  
-    Second Pdf is named as: 2.pdf
-    and so on.
+1. Name pdfs in numeric order.
+    * First Pdf is named as: 1.pdf  
+    * Second Pdf is named as: 2.pdf   
+    * and so on.
 2. Store pdfs in "pdf" folder
 3. Run main.py or main.ipynb
 
