@@ -16,8 +16,8 @@ Pagination and merging of multiple pdfs
 3. Run main.py or main.ipynb
 
 ## Output
-Paginated individual Pdfs are stored in "unmergedpdfs" folder
-Paginated Merged Pdfs are saved as "Output.pdf"
+   * Paginated individual Pdfs are stored in "unmergedpdfs" folder 
+   * Paginated Merged Pdfs are saved as "Output.pdf"
 
 
 ## Note
